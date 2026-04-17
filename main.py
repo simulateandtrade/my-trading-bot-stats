@@ -8,7 +8,7 @@ import os
 from git import Repo # Added for GitHub Sync
 
 # --- CONFIGURATION ---
-TOKEN = 'MTQ5MzgyMzg0NjEzNzIwNDc2Nw.GVQlS2.jj0-hblwuC0FLekv_i46cCmHznJarr-wGlUfGk' # PLEASE RESET YOUR TOKEN IN DEVELOPER PORTAL
+TOKEN = "REPLACED_FOR_SECURITY # PLEASE RESET YOUR TOKEN IN DEVELOPER PORTAL"
 PATH_TO_REPO = r'C:\Users\canet\OneDrive\Desktop\MyBot'
 
 intents = discord.Intents.default()
